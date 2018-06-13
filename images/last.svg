@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<path id="icon_rectangle" d="M112.5,78.9c5,0,9,4,9,9v25c0,5-4,9-9,9h-25c-5,0-9-4-9-9v-25c0-5,4-9,9-9H112.5 M112.5,75.9h-25
+	c-6.6,0-12,5.4-12,12v25c0,6.6,5.4,12,12,12h25c6.6,0,12-5.4,12-12v-25C124.5,81.3,119.1,75.9,112.5,75.9z"/>
+<path id="rounded_tab_1" d="M85.5,95.8c0,0,19-0.9,23,19.1c3.5,0.3,6.6,0.3,6.6,0.3s-0.6-23.3-29.6-25.5V95.8z"/>
+<path id="rounded_tab_2" d="M84.5,103c0,0,15-0.6,16.2,14.1c2.5,0.2,4.6,0.3,4.6,0.3s-0.2-17.9-20.8-18.9V103z"/>
+<ellipse id="circle" transform="matrix(0.9708 -0.2401 0.2401 0.9708 -24.5647 24.9977)" cx="90.3" cy="113.3" rx="7.1" ry="7.1"/>
+</svg>
